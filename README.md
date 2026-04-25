@@ -36,12 +36,12 @@ class MuhammadHassan:
 
 | 🔬 Project | 💡 Description | 🛠 Stack |
 |---|---|---|
+| [🩺 X-Pathology](https://github.com/Muhammad-Hassan12/X-Pathology) | A **Multi-Model Explainable AI (XAI) MedTech platform for Histopathology and Brain MRI analysis**. | Next.js, FastAPI, TensorFlow |
 | [🌿 Plant Disease Detector](https://github.com/Muhammad-Hassan12/Plant-Disease-Detector) | Detects **38 plant diseases** with **98.75% accuracy** | Python, TensorFlow, CNN |
 | [🌌 RepoNova](https://github.com/Muhammad-Hassan12/RepoNova) | Turns your GitHub into an **interactive 3D galaxy** | TypeScript, React Three Fiber |
 | [👤 FaceCluster](https://github.com/Muhammad-Hassan12/FaceCluster) | AI pipeline that **sorts photos by identity** — no training needed | Python, FaceNet, DBSCAN |
-| [🔬 Colon Cancer Predictor](https://github.com/Muhammad-Hassan12/Colon-Cancer-Prediction-CNN-Model) | High-accuracy **CNN for cancer detection** | Python, Keras, CNN |
+| [🔬 XPathology — Colon Specialist](https://github.com/Muhammad-Hassan12/Xpathology-Colon-Specialist) | High-accuracy/validation training of **CNN Model for Colon Cancer Detection** | Python, Keras, CNN |
 | [📷 AR Text Scanner](https://github.com/Muhammad-Hassan12/Realtime-AR-Text-Scanner) | Real-time **AR OCR pipeline** with live webcam | Python, YOLO11, EasyOCR |
-| [📈 RNN Forecasting](https://github.com/Muhammad-Hassan12/rnn-forecasting-benchmarks) | Benchmarks GRU, Stacked & Bidirectional **RNN architectures** | Python, Keras, TensorFlow |
 
 ---
 
