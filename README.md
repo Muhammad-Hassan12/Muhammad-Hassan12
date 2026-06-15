@@ -36,7 +36,8 @@ class MuhammadHassan:
 
 | 🔬 Project | 💡 Description | 🛠 Stack |
 |---|---|---|
-| [🧠 AgenticEra-Studio](https://github.com/Muhammad-Hassan12/AgenticEra-Studio) | Production-grade **multi-agent AI platform** with autonomous Research, Planning, RAG Document Analysis, and LangGraph Supervisor orchestration | Next.js 14, FastAPI, LangGraph, Gemini, Groq |
+| [📸 ClusterShot](https://cluster-shot.vercel.app/) | AI event photography platform — **zero-shot facial clustering**, **selfie-based photo retrieval**, and **agentic NL search** for 500+ image libraries | Python, FastAPI, InsightFace, Next.js, Supabase |
+| [🧠 AgenticEra-Studio](https://agentic-era-studio.vercel.app/) | Production-grade **multi-agent AI platform** with autonomous Research, Planning, RAG Document Analysis, and LangGraph Supervisor orchestration | Next.js 14, FastAPI, LangGraph, Gemini, Groq |
 | [🩺 X-Pathology](https://github.com/Muhammad-Hassan12/X-Pathology) | A **Multi-Model Explainable AI (XAI) MedTech platform for Histopathology and Brain MRI analysis**. | Next.js, FastAPI, TensorFlow |
 | [🌿 Plant Disease Detector](https://github.com/Muhammad-Hassan12/Plant-Disease-Detector) | Detects **38 plant diseases** with **98.75% accuracy** | Python, TensorFlow, CNN |
 | [🌌 RepoNova](https://github.com/Muhammad-Hassan12/RepoNova) | Turns your GitHub into an **interactive 3D galaxy** | TypeScript, React Three Fiber |
