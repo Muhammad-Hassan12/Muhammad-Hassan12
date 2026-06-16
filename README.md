@@ -20,18 +20,21 @@
 
 ```python
 class SyedMuhammadHassan:
-    role        = "GenAI Developer | 5th Semester BSCS @ Ziauddin University, Karachi"
-    venture     = "AgenticEra Systems — AI automation for real-world deployments"
-    team        = ["Hassan (AI/ML/MLOps)", "Mowaiz (Software/AI)", "Abdul Mannan (Full-Stack/Agentic)"]
+    role        = "GenAI Developer · 5th Semester BSCS @ Ziauddin University, Karachi"
+    venture     = "Co-Founder @ AgenticEra Systems — AI automation for SMBs"
+    team        = ["Hassan (AI/ML/MLOps)", "Owais (Software/AI)", "Abdul Mannan Fazlani (Full-Stack/Agentic)"]
+    stack       = ["LangGraph", "FastAPI", "Next.js", "Supabase", "TensorFlow", "Keras"]
+
     shipped     = [
-        "ClusterShot — zero-shot facial clustering for event photography (live)",
-        "AgenticEra Studio — production multi-agent SaaS platform (live)",
-        "X-Pathology — multimodal XAI platform for histopathology + brain MRI",
-        "Plant Disease Detector — 98.75% accuracy across 38 classes on HuggingFace",
+        "ClusterShot        — zero-shot facial clustering for event photography  [live]",
+        "AgenticEra Studio  — production multi-agent SaaS · AI-Seekho Flagship   [live]",
+        "X-Pathology        — multimodal XAI · histopathology + brain MRI        [live]",
+        "Plant Detector     — 98.75% acc · 38 classes · HuggingFace              [live]",
     ]
-    currently   = "Scaling AgenticEra Systems — AI automation for SMBs"
-    stack       = ["LangGraph", "FastAPI", "Next.js", "Supabase", "InsightFace", "TensorFlow"]
-    fun_fact    = "Trained a plant disease model hitting 98.75% accuracy across 38 classes 🌿"
+
+    highlight   = "🏆 Top 18 / 626 teams — AI Seekho 2026 Regional Finals"
+    building    = "AgenticEra Studio expansion + POS system w/ Raast QR payments"
+    beyond_code = ["EU4 & Skyrim", "PC hardware optimization"]
 ```
 
 ---
