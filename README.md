@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Muhammad%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Muhammad%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Developer%20%7C%20Agentic%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Deep+Learning+%7C+Computer+Vision+%7C+AI;Turning+Data+into+Insight+%F0%9F%93%8A;Open+to+Collaborate+%26+Learn+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Production+AI+Systems+%F0%9F%A4%96;Multi-Agent+Pipelines+%7C+LangGraph+%7C+FastAPI;Computer+Vision+%7C+InsightFace+%7C+EfficientNet;Founder+%40+AgenticEra+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-hassan-aa112928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Hassan12)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rarfileexe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://hassanweb-sage.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Hassan12&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Muhammad-Hassan12)
 
 </div>
@@ -20,29 +19,32 @@
 ## 🧠 About Me
 
 ```python
-class MuhammadHassan:
-    name       = "Syed Muhammad Hassan"
-    location   = "Pakistan 🇵🇰"
-    status     = "Student | Aspiring AI Engineer"
-    passion    = ["Deep Learning", "Computer Vision", "Data Science", "Web Dev"]
-    currently  = "Building AI systems that solve real-world problems"
-    learning   = ["Transformers", "Diffusion Models", "MLOps"]
-    fun_fact   = "I taught a model to detect 38 plant diseases at 98.75% accuracy 🌿"
+class SyedMuhammadHassan:
+    role        = "GenAI Developer | 5th Semester BSCS @ Ziauddin University, Karachi"
+    venture     = "AgenticEra Systems — AI automation for real-world deployments"
+    team        = ["Hassan (AI/ML/MLOps)", "Mowaiz (Software/AI)", "Abdul Mannan (Full-Stack/Agentic)"]
+    shipped     = [
+        "ClusterShot — zero-shot facial clustering for event photography (live)",
+        "AgenticEra Studio — production multi-agent SaaS platform (live)",
+        "X-Pathology — multimodal XAI platform for histopathology + brain MRI",
+        "Plant Disease Detector — 98.75% accuracy across 38 classes on HuggingFace",
+    ]
+    currently   = "Scaling AgenticEra Systems — AI automation for SMBs"
+    stack       = ["LangGraph", "FastAPI", "Next.js", "Supabase", "InsightFace", "TensorFlow"]
+    fun_fact    = "Trained a plant disease model hitting 98.75% accuracy across 38 classes 🌿"
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🔬 Project | 💡 Description | 🛠 Stack |
-|---|---|---|
-| [📸 ClusterShot](https://cluster-shot.vercel.app/) | AI event photography platform — **zero-shot facial clustering**, **selfie-based photo retrieval**, and **agentic NL search** for 500+ image libraries | Python, FastAPI, InsightFace, Next.js, Supabase |
-| [🧠 AgenticEra-Studio](https://agentic-era-studio.vercel.app/) | Production-grade **multi-agent AI platform** with autonomous Research, Planning, RAG Document Analysis, and LangGraph Supervisor orchestration | Next.js 14, FastAPI, LangGraph, Gemini, Groq |
-| [🩺 X-Pathology](https://github.com/Muhammad-Hassan12/X-Pathology) | A **Multi-Model Explainable AI (XAI) MedTech platform for Histopathology and Brain MRI analysis**. | Next.js, FastAPI, TensorFlow |
-| [🌿 Plant Disease Detector](https://github.com/Muhammad-Hassan12/Plant-Disease-Detector) | Detects **38 plant diseases** with **98.75% accuracy** | Python, TensorFlow, CNN |
-| [🌌 RepoNova](https://github.com/Muhammad-Hassan12/RepoNova) | Turns your GitHub into an **interactive 3D galaxy** | TypeScript, React Three Fiber |
-| [👤 FaceCluster](https://github.com/Muhammad-Hassan12/FaceCluster) | AI pipeline that **sorts photos by identity** — no training needed | Python, FaceNet, DBSCAN |
-| [🔬 XPathology — Colon Specialist](https://github.com/Muhammad-Hassan12/Xpathology-Colon-Specialist) | High-accuracy/validation training of **CNN Model for Colon Cancer Detection** | Python, Keras, CNN |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **📸 ClusterShot** | AI event photography — **zero-shot facial clustering**, selfie-based retrieval & NL search for 500+ image libraries | FastAPI · InsightFace · pgvector · Next.js · Cloudinary | [🔗 Live](https://cluster-shot.vercel.app/) |
+| **🤖 AgenticEra Studio** | Production **multi-agent SaaS platform** — Research, Planning, RAG Document Analysis with LangGraph Supervisor | Next.js 14 · FastAPI · LangGraph · Groq · FAISS | [🔗 Live](https://agentic-era-studio.vercel.app/) |
+| [🩺 X-Pathology](https://github.com/Muhammad-Hassan12/X-Pathology) | **Multimodal XAI MedTech platform** — colon histopathology (99.1% val) + brain MRI (90.1% holdout) | FastAPI · TensorFlow · EfficientNet · Next.js | [🔗 Live](https://x-pathology.vercel.app/) |
+| [🌿 Plant Disease Detector](https://github.com/Muhammad-Hassan12/Plant-Disease-Detector) | Detects **38 plant diseases** at **98.75% accuracy** — published on HuggingFace | TensorFlow · CNN · MobileNetV2 | [🔗 Live](https://plant-disease-detector-qbcnpnfs29enspoqjjm6d5.streamlit.app/) |
+| [🌌 RepoNova](https://github.com/Muhammad-Hassan12/RepoNova) | Transforms your GitHub into an **interactive 3D galaxy** | TypeScript · React Three Fiber | [🔗 Live](https://reponova-opal.vercel.app/) |
 
 ---
 
@@ -50,30 +52,31 @@ class MuhammadHassan:
 
 <div align="center">
 
-### 🤖 AI / ML
+### 🤖 AI / ML / Agentic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+
+### ⚙️ Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🌐 Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -116,11 +119,12 @@ class MuhammadHassan:
 
 <div align="center">
 
-### 💬 Let's Connect & Build Together!
+### 💬 Let's Connect & Build Together
 
-> *"The best way to predict the future is to invent it."* — Alan Kay
+> *AgenticEra Systems — shipping AI systems that actually work in production.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-hassan-aa112928b/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://hassanweb-sage.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
