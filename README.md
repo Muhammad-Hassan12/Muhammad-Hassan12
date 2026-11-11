@@ -18,22 +18,20 @@
 
 ## 🧠 About Me
 
+## 🧠 About Me
+
 ```python
 class SyedMuhammadHassan:
-    role        = "GenAI Developer · 5th Semester BSCS @ Ziauddin University, Karachi"
-    venture     = "Co-Founder @ AgenticEra Systems — AI automation for SMBs"
+    role        = "AI & ML Developer · 6th Semester BSCS @ Ziauddin University, Karachi"
+    venture     = "Co-Founder @ AgenticEra Systems — AI applications, agents & computer vision"
     team        = ["Hassan (AI/ML/MLOps)", "Owais (Software/AI)", "Abdul Mannan Fazlani (Full-Stack/Agentic)"]
-    stack       = ["LangGraph", "FastAPI", "Next.js", "Supabase", "TensorFlow", "Keras"]
+    focus       = ["Multi-agent orchestration", "RAG & retrieval", "Explainable computer vision"]
+    stack       = ["LangGraph", "MCP", "FastAPI", "Next.js", "Supabase", "TensorFlow/Keras"]
+    certified   = ["IBM RAG & Agentic AI", "Google Cloud MLOps", "DeepLearning.AI Deep Learning", "PIAIC GenAI"]
 
-    shipped     = [
-        "ClusterShot        — zero-shot facial clustering for event photography  [live]",
-        "AgenticEra Studio  — production multi-agent SaaS · AI-Seekho Flagship   [live]",
-        "X-Pathology        — multimodal XAI · histopathology + brain MRI        [live]",
-        "Plant Detector     — 98.75% acc · 38 classes · HuggingFace              [live]",
-    ]
-
-    highlight   = "🏆 Top 18 / 626 teams — AI Seekho 2026 Regional Finals"
+    highlight   = "🏆 AI Seekho 2026 (Google Antigravity National Hackathon) — Karachi Regional Finalist"
     building    = "AgenticEra Studio expansion + POS system w/ Raast QR payments"
+    open_to     = ["AI engineering roles", "Freelance", "Research collabs"]
     beyond_code = ["EU4 & Skyrim", "PC hardware optimization"]
 ```
 
@@ -41,13 +39,30 @@ class SyedMuhammadHassan:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Live |
+| Project | What it does | Stack | Links |
 |---|---|---|---|
-| **📸 ClusterShot** | AI event photography — **zero-shot facial clustering**, selfie-based retrieval & NL search for 500+ image libraries | FastAPI · InsightFace · pgvector · Next.js · Cloudinary | [🔗 Live](https://cluster-shot.vercel.app/) |
-| **🤖 AgenticEra Studio** | Production **multi-agent SaaS platform** — Research, Planning, RAG Document Analysis with LangGraph Supervisor | Next.js 14 · FastAPI · LangGraph · Groq · FAISS | [🔗 Live](https://agentic-era-studio.vercel.app/) |
-| [🩺 X-Pathology](https://github.com/Muhammad-Hassan12/X-Pathology) | **Multimodal XAI MedTech platform** — colon histopathology (99.1% val) + brain MRI (90.1% holdout) | FastAPI · TensorFlow · EfficientNet · Next.js | [🔗 Live](https://x-pathology.vercel.app/) |
-| [🌿 Plant Disease Detector](https://github.com/Muhammad-Hassan12/Plant-Disease-Detector) | Detects **38 plant diseases** at **98.75% accuracy** — published on HuggingFace | TensorFlow · CNN · MobileNetV2 | [🔗 Live](https://plant-disease-detector-qbcnpnfs29enspoqjjm6d5.streamlit.app/) |
-| [🌌 RepoNova](https://github.com/Muhammad-Hassan12/RepoNova) | Transforms your GitHub into an **interactive 3D galaxy** | TypeScript · React Three Fiber | [🔗 Live](https://reponova-opal.vercel.app/) |
+| **🧭 Ustaad** | AI career OS for Pakistani tech grads. 6-agent async DAG: live job-market grounding, GitHub/portfolio audit, skill-gap analysis, 30/60/90-day roadmaps, ATS CV rewrite, adaptive mock interviews. 8-provider BYOK routing. | FastAPI · Next.js · Gemini · Supabase · SSE | [Live](https://www.ustaad.systems/) · [Repo](https://github.com/Muhammad-Hassan12/Ustaad) |
+| **🤖 AgenticEra Studio** | Multi-agent workspace for research, planning and document analysis. LangGraph supervisor + RAG + live streaming. | LangGraph · FastAPI · Gemini · Next.js · Supabase · Cloudflare R2 | [Live](https://www.agenticerastudio.tech/) |
+| **📸 ClusterShot** | Event photography platform. Zero-shot face clustering, selfie-based photo retrieval and semantic search for 500+ image libraries. | InsightFace · FastAPI · pgvector · DBSCAN · Next.js | [Live](https://cluster-shot.vercel.app/) |
+| **🩺 X-Pathology** | Explainable MedTech screening platform (v4): 9-class colon histopathology (**99.1% val**) + 4-class brain MRI (**90.1% holdout**). Temperature-calibrated EfficientNet, Grad-CAM heatmaps, Gemini dual-persona reports. | TensorFlow · EfficientNet · Grad-CAM · FastAPI · Next.js | [Live](https://x-pathology.vercel.app/) · [Repo](https://github.com/Muhammad-Hassan12/X-Pathology) |
+| **💬 Zauq** | Agentic Discord assistant (v4): multi-provider routing, web research, semantic memory, MCP tools, sandboxed Docker code execution with approval gates. | FastAPI · discord.py · MCP · Docker · pgvector | [Repo](https://github.com/Muhammad-Hassan12/Zauq) |
+
+🔬 **Research:** calibrated CTransPath transformer for colorectal tissue — 97.33% accuracy, 0.9615 macro-F1 on CRC-VAL-HE-7K → [XPathology-Colorectal-Tissue-Specialist](https://github.com/Muhammad-Hassan12/XPathology-Colorectal-Tissue-Specialist)
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br/>
+
+| Project | Description |
+|---|---|
+| [🌿 Plant Disease Detector](https://github.com/Muhammad-Hassan12/Plant-Disease-Detector) | 38 plant disease classes at 98.75% accuracy (PlantVillage). Published on HuggingFace. [Demo](https://plant-disease-detector-qbcnpnfs29enspoqjjm6d5.streamlit.app/) |
+| [👥 FaceCluster](https://github.com/Muhammad-Hassan12/FaceCluster) | Identity grouping with FaceNet embeddings + DBSCAN. No per-person training. |
+| [🔎 Realtime AR Text Scanner](https://github.com/Muhammad-Hassan12/Realtime-AR-Text-Scanner) | YOLO11 + EasyOCR on live webcam, fully offline. |
+| [🌌 RepoNova](https://github.com/Muhammad-Hassan12/RepoNova) | GitHub profile as a 3D galaxy. React Three Fiber. [Demo](https://reponova-opal.vercel.app/) |
+| [📈 RNN Forecasting Benchmarks](https://github.com/Muhammad-Hassan12/rnn-forecasting-benchmarks) | GRU / Stacked / Bidirectional RNN comparison for time-series forecasting. |
+
+</details>
 
 ---
 
@@ -55,35 +70,54 @@ class SyedMuhammadHassan:
 
 <div align="center">
 
-### 🤖 AI / ML / Agentic
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO11](https://img.shields.io/badge/YOLO11-111111?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### ⚙️ Backend & Infra
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🌐 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📊 Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
 ---
+
+## 🎓 Certifications
+
+**Specializations**
+
+| Specialization | Issuer | Year |
+|---|---|---|
+| Deep Learning Specialization (5 courses) | DeepLearning.AI | 2026 |
+| Machine Learning Operations (MLOps) on Google Cloud (4 courses) | Google Cloud | 2026 |
+
+**Professional certificates**
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| IBM RAG and Agentic AI | IBM | 2026 |
+| Certified Artificial Intelligence Developer | PIAIC | 2024 |
+
+**Course certificates:** Generative AI with Large Language Models (DeepLearning.AI × AWS) · Machine Learning in Production (DeepLearning.AI)
+
+**Badge:** Kaggle × Google 5-Day AI Agents Intensive, Vibe Coding Capstone (2026)
+
+28 certificates and badges in total → [view all on my portfolio](https://www.smhassan.me/#achievements)
 
 ## 📊 GitHub Stats
 
