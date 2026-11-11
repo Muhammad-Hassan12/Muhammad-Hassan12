@@ -18,8 +18,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 ```python
 class SyedMuhammadHassan:
     role        = "AI & ML Developer · 6th Semester BSCS @ Ziauddin University, Karachi"
